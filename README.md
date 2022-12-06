@@ -17,6 +17,8 @@ Then finally you can start searching: `yarn prod search 'stronger internet'`
 2. Indexing chats, `index_chats`
 3. Searching, `search`
 
+# Please note that I have added Google secret so as to make it easy for testing, I know it shouldn't be done. Also please note that the source videos (mp4) I haven't uploaded into the repo, please add them into the following directory `assets/files/`
+
 # Recording data indexing
 
 At Lessonspace, we record the contents of every session in a JSON file format, that may or may not have audio and video recorded too. This is currently used for playback, but it would be really neat to be able to search through recordings and jump to specific locations.
