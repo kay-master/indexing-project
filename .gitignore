@@ -1,0 +1,4 @@
+node_modules/
+assets/output/*
+dist/
+yarn.lock

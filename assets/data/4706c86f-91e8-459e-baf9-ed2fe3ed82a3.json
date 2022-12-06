@@ -1,0 +1,367 @@
+{
+  "version": 1,
+  "frames": [
+    {
+      "type": "delta",
+      "event": {
+        "path": [
+          "chat"
+        ],
+        "source": "array",
+        "delta": [
+          {
+            "insert": []
+          }
+        ]
+      },
+      "timestamp": 1619029028686
+    },
+    {
+      "type": "update",
+      "event": {
+        "id": 61161,
+        "guest": false,
+        "readOnly": false,
+        "master": false,
+        "allowInvite": false,
+        "meta": {
+          "profilePicture": null,
+          "name": "Test McTestface",
+          "color": {
+            "r": 240,
+            "g": 62,
+            "b": 62,
+            "a": 1
+          },
+          "page": null,
+          "av": {}
+        },
+        "canLead": true,
+        "lastUsed": "2021-04-21T18:17:09.077Z",
+        "isIdle": false,
+        "timestamp": 1619029029458
+      },
+      "timestamp": 1619029029458
+    },
+    {
+      "type": "delta",
+      "event": {
+        "path": [
+          "root"
+        ],
+        "source": "map",
+        "delta": [],
+        "timestamp": 1619029029481
+      },
+      "timestamp": 1619029029481
+    },
+    {
+      "type": "update",
+      "event": {
+        "id": 61161,
+        "guest": false,
+        "readOnly": false,
+        "master": false,
+        "allowInvite": false,
+        "meta": {
+          "profilePicture": null,
+          "name": "Test McTestface",
+          "color": {
+            "r": 240,
+            "g": 62,
+            "b": 62,
+            "a": 1
+          },
+          "page": null,
+          "av": {
+            "wantsAv": true,
+            "videoSource": "camera",
+            "screenSharingSupported": true,
+            "microphoneEnabled": true,
+            "cameraEnabled": true,
+            "cameraPublishId": "",
+            "troubleshooting": {
+              "serverReceivingWebRTC": false,
+              "serverReceivingAudio": false,
+              "serverReceivingVideo": false,
+              "heardMicrophoneSignal": false,
+              "poorConnection": false,
+              "qualityLimitationReason": "none",
+              "hasAdBlocker": true,
+              "consentDialogOpen": false,
+              "consentDialogStart": 1619029027556,
+              "consentDialogEnd": 1619029029803,
+              "consentDialogGap": 2.247,
+              "inLobby": true,
+              "rejectedGUMRequest": true,
+              "rejectedGUMRequestError": null,
+              "rejectedGUMRequestSystem": false,
+              "gumAudioFailed": false,
+              "gumVideoFailed": false,
+              "tooManyPublishers": false,
+              "avPublishing": true,
+              "platform": "desktop",
+              "outdatedBrowser": false,
+              "isSupportedBrowser": true,
+              "joinedWithoutAv": false,
+              "isDefinitelyUnsupportedBrowser": false
+            }
+          }
+        },
+        "canLead": true,
+        "lastUsed": "2021-04-21T18:17:09.481Z",
+        "isIdle": false,
+        "timestamp": 1619029030087
+      },
+      "timestamp": 1619029030087
+    },
+    {
+      "type": "update",
+      "event": {
+        "id": 61161,
+        "guest": false,
+        "readOnly": false,
+        "master": false,
+        "allowInvite": false,
+        "meta": {
+          "profilePicture": null,
+          "name": "Test McTestface",
+          "color": {
+            "r": 240,
+            "g": 62,
+            "b": 62,
+            "a": 1
+          },
+          "page": null,
+          "av": {
+            "wantsAv": true,
+            "videoSource": "camera",
+            "screenSharingSupported": true,
+            "microphoneEnabled": true,
+            "cameraEnabled": true,
+            "cameraPublishId": "",
+            "troubleshooting": {
+              "serverReceivingWebRTC": false,
+              "serverReceivingAudio": false,
+              "serverReceivingVideo": false,
+              "heardMicrophoneSignal": false,
+              "poorConnection": false,
+              "qualityLimitationReason": "none",
+              "hasAdBlocker": true,
+              "consentDialogOpen": false,
+              "consentDialogStart": 1619029027556,
+              "consentDialogEnd": 1619029029803,
+              "consentDialogGap": 2.247,
+              "inLobby": true,
+              "rejectedGUMRequest": true,
+              "rejectedGUMRequestError": null,
+              "rejectedGUMRequestSystem": false,
+              "gumAudioFailed": false,
+              "gumVideoFailed": false,
+              "tooManyPublishers": false,
+              "avPublishing": true,
+              "platform": "desktop",
+              "outdatedBrowser": false,
+              "isSupportedBrowser": true,
+              "joinedWithoutAv": false,
+              "isDefinitelyUnsupportedBrowser": false
+            }
+          },
+          "leading": true
+        },
+        "canLead": true,
+        "lastUsed": "2021-04-21T18:17:09.481Z",
+        "isIdle": false,
+        "timestamp": 1619029030454
+      },
+      "timestamp": 1619029030454
+    },
+    {
+      "type": "update",
+      "event": {
+        "id": 61161,
+        "guest": false,
+        "readOnly": false,
+        "master": false,
+        "allowInvite": false,
+        "meta": {
+          "profilePicture": null,
+          "name": "Test McTestface",
+          "color": {
+            "r": 240,
+            "g": 62,
+            "b": 62,
+            "a": 1
+          },
+          "page": null,
+          "av": {
+            "wantsAv": true,
+            "videoSource": "camera",
+            "screenSharingSupported": true,
+            "microphoneEnabled": true,
+            "cameraEnabled": true,
+            "cameraPublishId": "",
+            "troubleshooting": {
+              "serverReceivingWebRTC": false,
+              "serverReceivingAudio": false,
+              "serverReceivingVideo": false,
+              "heardMicrophoneSignal": false,
+              "poorConnection": false,
+              "qualityLimitationReason": "none",
+              "hasAdBlocker": true,
+              "consentDialogOpen": false,
+              "consentDialogStart": 1619029027556,
+              "consentDialogEnd": 1619029029803,
+              "consentDialogGap": 2.247,
+              "inLobby": false,
+              "rejectedGUMRequest": true,
+              "rejectedGUMRequestError": null,
+              "rejectedGUMRequestSystem": false,
+              "gumAudioFailed": false,
+              "gumVideoFailed": false,
+              "tooManyPublishers": false,
+              "avPublishing": true,
+              "platform": "desktop",
+              "outdatedBrowser": false,
+              "isSupportedBrowser": true,
+              "joinedWithoutAv": true,
+              "isDefinitelyUnsupportedBrowser": false
+            }
+          },
+          "leading": true
+        },
+        "canLead": true,
+        "lastUsed": "2021-04-21T18:17:09.481Z",
+        "isIdle": false,
+        "timestamp": 1619029030850
+      },
+      "timestamp": 1619029030850
+    },
+    {
+      "type": "delta",
+      "event": {
+        "path": [
+          "chat"
+        ],
+        "source": "array",
+        "delta": [
+          {
+            "insert": [
+              {
+                "type": "file",
+                "author": "Test McTestface",
+                "authorId": 61161,
+                "data": {
+                  "text": "hello world",
+                  "files": []
+                },
+                "timestamp": "2021-04-21T18:17:14.726Z"
+              }
+            ]
+          }
+        ],
+        "timestamp": 1619029034926
+      },
+      "timestamp": 1619029034926
+    },
+    {
+      "type": "delta",
+      "event": {
+        "path": [
+          "chat"
+        ],
+        "source": "array",
+        "delta": [
+          {
+            "retain": 1
+          },
+          {
+            "insert": [
+              {
+                "type": "file",
+                "author": "Test McTestface",
+                "authorId": 61161,
+                "data": {
+                  "text": "testing",
+                  "files": []
+                },
+                "timestamp": "2021-04-21T18:17:16.024Z"
+              }
+            ]
+          }
+        ],
+        "timestamp": 1619029036215
+      },
+      "timestamp": 1619029036215
+    },
+    {
+      "type": "signalling",
+      "event": {
+        "t": "tickle",
+        "timestamp": 1619029037742
+      },
+      "timestamp": 1619029037742
+    },
+    {
+      "type": "leave",
+      "event": {
+        "id": 61161,
+        "guest": false,
+        "readOnly": false,
+        "master": false,
+        "allowInvite": false,
+        "meta": {
+          "profilePicture": null,
+          "name": "Test McTestface",
+          "color": {
+            "r": 240,
+            "g": 62,
+            "b": 62,
+            "a": 1
+          },
+          "page": null,
+          "av": {
+            "wantsAv": true,
+            "videoSource": "camera",
+            "screenSharingSupported": true,
+            "microphoneEnabled": true,
+            "cameraEnabled": true,
+            "cameraPublishId": "",
+            "troubleshooting": {
+              "serverReceivingWebRTC": false,
+              "serverReceivingAudio": false,
+              "serverReceivingVideo": false,
+              "heardMicrophoneSignal": false,
+              "poorConnection": false,
+              "qualityLimitationReason": "none",
+              "hasAdBlocker": true,
+              "consentDialogOpen": false,
+              "consentDialogStart": 1619029027556,
+              "consentDialogEnd": 1619029029803,
+              "consentDialogGap": 2.247,
+              "inLobby": false,
+              "rejectedGUMRequest": true,
+              "rejectedGUMRequestError": null,
+              "rejectedGUMRequestSystem": false,
+              "gumAudioFailed": false,
+              "gumVideoFailed": false,
+              "tooManyPublishers": false,
+              "avPublishing": true,
+              "platform": "desktop",
+              "outdatedBrowser": false,
+              "isSupportedBrowser": true,
+              "joinedWithoutAv": true,
+              "isDefinitelyUnsupportedBrowser": false
+            }
+          },
+          "leading": true
+        },
+        "canLead": true,
+        "lastUsed": "2021-04-21T18:17:17.742Z",
+        "isIdle": false,
+        "timestamp": 1619029042339
+      },
+      "timestamp": 1619029042339
+    }
+  ]
+}
